@@ -37,7 +37,7 @@ Then, run the following commands to start your app:
 flutter pub get
 open -a simulator (to launch the iOS Simulator)
 flutter run
-
+```
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
