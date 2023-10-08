@@ -18,7 +18,7 @@ A TikTok-like mobile application for Android and iOS.
 - TikTok-Inspired User Interface
 
 ## Demo
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wqc_izVETE0/0.jpg)](https://youtu.be/Wqc_izVETE0)
 ![Screenshot](/screenshot.png)
 </p>
 
